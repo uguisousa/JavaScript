@@ -5,11 +5,11 @@
 
 <div>
 <h3>Programas/plataformas: (Que utilizo)</h3>
-<li><a href="">Visual Studio Code</a></li>
-<li><a href="">Eclipse</a></li>
-<li><a href="">Replit</a></li>
- <li><a href="">Codepen</a></li>
- <li><a href="">nodeJs</a></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://eclipseide.org/">Eclipse</a></li>
+<li><a href="https://replit.com/">Replit</a></li>
+ <li><a href="https://codepen.io/">Codepen</a></li>
+ <li><a href="https://nodejs.org/en">nodeJs</a></li>
 </div>
 
 
