@@ -1,7 +1,7 @@
- <h1>Dartt</h1>
+ <h1>Java Script</h1>
 
 > [!NOTE]
-> Neste repositório estarão todos os meus arquivos em <b>Dart</b>, tanto atividades como projetos.
+> Neste repositório estarão todos os meus arquivos em <b>Java Script</b>, tanto atividades como projetos.
 
 <div>
 <h3>Programas/Plataformas que utilizo:</h3>
