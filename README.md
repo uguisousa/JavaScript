@@ -6,7 +6,7 @@
          <li>Alguns Projetos/Atividas em <a href="">JavaScript</a></li>
          </span>
 
-    </ul>
+    
   </blockquote>
 
 
